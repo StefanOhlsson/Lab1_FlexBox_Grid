@@ -27,4 +27,9 @@ produkter till samma dokument om ni vill.
 <b>Kontaktsidan</b><br/>
 Det ska finnas rutor med en profilbild och lite allmän information om er. Notera att bilden ligger
 vid sidan om texten och att viss text ligger i rutans nederkant. Gör en liknande layout, genom att
-använda attributen position och float - &lt;br/&gt; är inte tillåtet här. Exempel:
+använda attributen position och float - &lt;br/&gt; är inte tillåtet här. 
+
+Resultat:<br/>
+<a href ="https://stefanohlsson.github.io/Lab1_FlexBox_Grid/">Live Demo</a>
+
+
